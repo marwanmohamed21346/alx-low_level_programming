@@ -2,9 +2,7 @@
 
 
 /**
- * main - check the code
- *
- * Return: Always 0
+ *print_alphabet - function used to prints the alphabet, in lowercase, followed by a new line
  */
 
 
